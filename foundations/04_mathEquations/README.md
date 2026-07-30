@@ -22,3 +22,4 @@ Feel free to run the test suite right now to see the first test pass, then go fr
 
 - Look at the docs for arithmetic operators in JavaScript for a quick reference.
 - Refer back to the [Variables and Operators lesson](https://www.theodinproject.com/lessons/foundations-variables-and-operators) if you are still stuck.
+uations test
