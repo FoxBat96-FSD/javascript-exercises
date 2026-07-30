@@ -10,7 +10,7 @@ If running `npm test numberChecker.spec.js` returns results similar to what is s
 
 ```
 Test Suites: 1 passed, 1 total
-Tests:       3 skipped, 1 passed, 4 total
+Tests:       3 skipped, 1 passed, 4 totalModified 
 ```
 
 ## Hints
